@@ -43,3 +43,4 @@ Thumbs.db
 *.tar.gz
 *.tgz
 gh_temp/
+gh.exe
