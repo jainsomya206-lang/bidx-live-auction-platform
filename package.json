@@ -1,0 +1,22 @@
+{
+  "name": "bidx-platform",
+  "version": "1.0.0",
+  "description": "BidX - Real-Time Live Auction Marketplace Platform",
+  "private": true,
+  "scripts": {
+    "server": "cd server && npm start",
+    "client": "cd client && npm run dev",
+    "build": "cd client && npm run build",
+    "start": "cd server && npm start"
+  },
+  "keywords": [
+    "auction",
+    "real-time",
+    "socket.io",
+    "mongodb",
+    "react",
+    "tailwind"
+  ],
+  "author": "BidX Engineering Team",
+  "license": "MIT"
+}
